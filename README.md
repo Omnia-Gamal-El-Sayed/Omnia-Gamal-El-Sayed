@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omnia Gamal</h1>
-<h3 align="center">A passionate frontend developer. I'm experienced in HTML, CSS, PHP, jQuery, JavaScript and React. I'm open to learning and discovering new techniques.</h3>
+<h3 align="center">A passionate frontend developer. I'm experienced in HTML, CSS, jQuery, JavaScript and React. I'm open to learning and discovering new techniques.</h3>
 
 - 🔭 I’m currently working on **projects based on React**
 
