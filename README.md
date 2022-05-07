@@ -3,7 +3,15 @@
 
 - 🔭 I’m currently working on **projects based on React**
 
+- 🌱 I’m currently enrolled in a **Full Stack Development Diploma**
+
+- 👯 I’m looking to collaborate on **front-end projects**
+
+- 💬 Ask me about **React, and JavaScript.**
+
 - 📫 How to reach me **omnia.gamal1212@gmail.com**
+
+- 📄 Know about my experiences [http://tiny.cc/OmniaGamal-CV](http://tiny.cc/OmniaGamal-CV)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
